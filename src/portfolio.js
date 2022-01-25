@@ -32,7 +32,7 @@ const socialMediaLinks = {
 // Skills Section
 const skillsSection = {
   title: "My Skills",
-  subTitle: "",
+  subTitle: "Below are select skills I'd like to highlight. Of course, see my résumé for a more comprehensive skillset!",
   skills: [
   //  emoji(
   //    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
